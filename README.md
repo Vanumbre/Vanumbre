@@ -4,13 +4,13 @@
   <img src="./assets/banner.png" />
 </p>
 
-# VANUMBRE 🚀
+# VANUMBRE  𝖁𝖆𝖓𝖚𝖒𝖇𝖗𝖊 
 
 > Code. Create. Dominate.
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ABOUT ME
 
 - Developer
 - Cybersecurity Enthusiast
@@ -19,13 +19,13 @@
 
 ---
 
-## ⚡ TECH STACK
+## TECH STACK
 
 - Python 🐍
 - JavaScript ⚡
 - C 💻
 - HTML5 🌐
-- CSS3 🎨
+
 
 ---
 
